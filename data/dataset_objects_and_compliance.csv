@@ -1,0 +1,288 @@
+n,Label,Shape,Material,Custom?,Shore 00 [/],Shore A [/],Shore D [/],"Gent, Shore A","Reuss, Shore A","Reuss, Shore D","Silicone, Shore 00","Silicone, Shore A","Silicone, Shore D",Modulus [Pa],Trials Recorded?,Radius [m],Notes
+64,fake_washer_stack,Cylinder,Rubber,Y,70,13.5,,5.12E+05,7.24E+05,,5.64E+05,3.35E+05,,5.64E+05,5,,
+283,molded_cylinder_thin,Cylinder,Rubber,Y,75,17.5,,6.37E+05,5.27E+05,,8.07E+05,4.16E+05,,8.07E+05,8,,
+284,molded_cylinder_wide,Cylinder,Rubber,Y,75,17.5,,6.37E+05,5.27E+05,,8.07E+05,4.16E+05,,8.07E+05,8,,
+36,fake_nut,Irregular,Rubber,Y,70,15,,5.57E+05,7.50E+05,,5.64E+05,3.63E+05,,5.64E+05,5,,
+72,fake_rose,Irregular,Rubber,Y,71,17.5,,6.37E+05,7.95E+05,,6.06E+05,4.16E+05,,6.06E+05,5,,
+184,fake_half_rose,Irregular,Rubber,Y,71,17.5,,6.37E+05,7.95E+05,,6.06E+05,4.16E+05,,6.06E+05,5,,
+40,fake_bolt_gray,Irregular,Rubber,Y,72,16,,5.89E+05,7.68E+05,,6.51E+05,3.84E+05,,6.51E+05,6,,
+41,fake_bolt_black,Irregular,Rubber,Y,72,16,,5.89E+05,7.68E+05,,6.51E+05,3.84E+05,,6.51E+05,5,,
+76,fake_diamond,Irregular,Rubber,Y,72,18,,6.54E+05,8.05E+05,,6.51E+05,4.27E+05,,6.51E+05,5,,
+43,fake_lego,Irregular,Rubber,Y,75,17.5,,6.37E+05,7.95E+05,,8.07E+05,4.16E+05,,8.07E+05,5,,
+68,fake_leaf,Irregular,Rubber,Y,75,17.5,,6.37E+05,7.95E+05,,8.07E+05,4.16E+05,,8.07E+05,5,,
+79,fake_bear,Irregular,Rubber,Y,75,17.5,,6.37E+05,7.95E+05,,8.07E+05,4.16E+05,,8.07E+05,7,,
+70,fake_heart,Irregular,Rubber,Y,77,18,,6.54E+05,8.05E+05,,9.32E+05,4.27E+05,,9.32E+05,5,,
+235,gel_big,Rectangular,Rubber,Y,50,,,,,,1.34E+05,,,1.34E+05,6,,
+238,gel_double_wide,Rectangular,Rubber,Y,50,,,,,,1.34E+05,,,1.34E+05,8,,
+167,gel,Rectangular,Rubber,Y,60,,,,,,2.75E+05,,,2.75E+05,5,,
+282,fake_screw_mold,Rectangular,Rubber,Y,75,17.5,,6.37E+05,5.27E+05,,8.07E+05,4.16E+05,,8.07E+05,8,,
+285,molded_rectangle,Rectangular,Rubber,Y,75,17.5,,6.37E+05,5.27E+05,,8.07E+05,4.16E+05,,8.07E+05,8,,
+74,fake_bumpy_ball,Sphere,Rubber,Y,73,17.5,,6.37E+05,7.95E+05,,6.99E+05,4.16E+05,,6.99E+05,5,,
+83,marshmallow,Cylinder,Food,,10,,,,,,7.59E+03,,,3.00E+04,5,,https://pubs.aip.org/aapt/pte/article-abstract/46/3/140/275147/Young-s-Modulus-of-a-Marshmallow?redirectedFrom=PDF
+240,foam_sticker_stack,Cylinder,Rubber,,58,10,,4.10E+05,5.27E+05,,2.38E+05,2.77E+05,,2.38E+05,8,,
+19,foam_banana,Cylinder,Foam,,30,,,,,,3.19E+04,,,3.00E+05,5,,"https://www.matweb.com/search/DataSheet.aspx?MatGUID=91d44cae736e4b36bcba94720654eeae, https://www.pg.gda.pl/mech/kim/AMS/022006/AMS02200605.pdf"
+61,styrofoam_cylinder,Cylinder,Foam,,41.5,,,,,,7.28E+04,,,1.65E+06,5,,https://www.foambymail.com/polystyrene-foam-sheet.html
+53,cork_black,Cylinder,Rubber,,88,53.5,7,2.63E+06,1.85E+06,2.01E+06,2.05E+06,2.92E+06,1.78E+07,6.10E+06,5,,https://www.matweb.com/search/datasheet.aspx?matguid=c680960fc38f488a991e1e04504092b4
+63,rubber_washer_stack,Cylinder,Rubber,,95,66.5,15,4.25E+06,2.52E+06,2.43E+06,3.39E+06,5.89E+06,2.98E+07,6.10E+06,5,,https://www.matweb.com/search/datasheet.aspx?matguid=c680960fc38f488a991e1e04504092b4
+203,rubber_rope,Cylinder,Rubber,,,78,,6.95E+06,5.27E+05,,,1.10E+07,,6.95E+06,8,,
+204,rubber_rope_wide,Cylinder,Rubber,,,78,,6.95E+06,5.27E+05,,,1.10E+07,,6.95E+06,8,,
+205,rubber_rope_thin,Cylinder,Rubber,,,78,,6.95E+06,5.27E+05,,,1.10E+07,,6.95E+06,5,,
+84,black_donut_indenter,Cylinder,Rubber,,,62.5,15,3.65E+06,2.29E+06,2.43E+06,,4.75E+06,2.98E+07,8.30E+07,5,,https://www.precisionurethane.com/hardness-chart.html
+52,cork,Cylinder,Wood,,,,,,,,,,,1.00E+08,5,,"https://www.sciencedirect.com/science/article/pii/S0264127523007918#:~:text=All%20these%20previous%20studies%20converge,%5D%2C%20%5B25%5D%2C%20%5B"
+65,white_bottle_cap,Cylinder,Plastic,,,,,,,,,,,1.67E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=08fb0f47ef7e454fbf7092517b2264b2
+163,blue_bottle_cap,Cylinder,Plastic,,,,,,,,,,,1.67E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=08fb0f47ef7e454fbf7092517b2264b2
+133,spatula,Cylinder,Plastic,,,,65,,,7.86E+06,,,7.49E+08,2.16E+09,5,,https://www.matweb.com/search/datasheet.aspx?matguid=29340c5df4bf4de0a511419ce86db27b
+134,rubber_spatula_handle,Cylinder,Plastic,,,,72,,,9.27E+06,,,1.18E+09,2.16E+09,5,,https://www.matweb.com/search/datasheet.aspx?matguid=29340c5df4bf4de0a511419ce86db27b
+57,delrin_cylinder,Cylinder,Plastic,,,,,,,,,,,2.76E+09,5,,https://laminatedplastics.com/delrin.pdf
+143,pipe_junction_big,Cylinder,Plastic,,,,,,,,,,,2.76E+09,5,,
+146,coca_cola_cup,Cylinder,Plastic,,,,,,,,,,,2.93E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=3cb08da2a0054447a3790015b7214d07
+62,ethernet_adapter,Cylinder,Plastic,,,,,,,,,,,2.97E+09,5,,https://matweb.com/search/DataSheet.aspx?MatGUID=8d78f3cfcb6f49d595896ce6ce6a2ef1&ckck=1
+131,screwdriver_handle,Cylinder,Plastic,,,,20,,,2.73E+06,,,4.11E+07,2.97E+09,5,,https://matweb.com/search/DataSheet.aspx?MatGUID=8d78f3cfcb6f49d595896ce6ce6a2ef1&ckck=1
+132,spatula_simple,Cylinder,Plastic,,,,76,,,1.02E+07,,,1.52E+09,2.97E+09,5,,https://matweb.com/search/DataSheet.aspx?MatGUID=8d78f3cfcb6f49d595896ce6ce6a2ef1&ckck=1
+218,ladle_simple,Cylinder,Plastic,,,,76,,,1.02E+07,,,1.52E+09,2.97E+09,8,,https://matweb.com/search/DataSheet.aspx?MatGUID=8d78f3cfcb6f49d595896ce6ce6a2ef1&ckck=1
+18,plastic_banana,Cylinder,Plastic,,,,55,,,6.22E+06,,,3.93E+08,3.15E+09,5,,https://www.vinidex.com.au/technical-resources/material-properties/pvc-properties/#:~:text=Elastic%20Modulus%20of%20PVC%2DO%20%E2%80%93%204000%20MPa
+142,power_cable,Cylinder,Rubber,,,90,40,1.39E+07,4.37E+06,4.37E+06,,2.10E+07,1.49E+08,3.15E+09,5,,https://www.vinidex.com.au/technical-resources/material-properties/pvc-properties/#:~:text=Elastic%20Modulus%20of%20PVC%2DO%20%E2%80%93%204000%20MPa
+120,plate_small,Cylinder,Plastic,,,,94,,,1.55E+07,,,4.86E+09,8.90E+09,5,,https://www.matweb.com/search/datasheet.aspx?matguid=b9d8e1a9b4a741339d86e3357b9720b7
+221,felt_paint_brush,Cylinder,Wood,,,,,,,,,,,9.50E+09,7,,https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html
+49,wooden_dowel_long,Cylinder,Wood,,,,,,,,,,,1.00E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+50,wooden_dowel_short,Cylinder,Wood,,,,,,,,,,,1.00E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+208,wooden_dowel_tiny,Cylinder,Wood,,,,,,,,,,,1.00E+10,8,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+212,pencil_round,Cylinder,Wood,,,,,,,,,,,1.10E+10,6,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+198,chopstick,Cylinder,Wood,,,,,,,,,,,1.19E+10,8,,https://www.matweb.com/search/datasheet_print.aspx?matguid=c499c231f20d4284a4da8bea3d2644fc
+110,hammer_handle,Cylinder,Wood,,,,,,,,,,,1.25E+10,5,,https://amesweb.info/Materials/Youngs-Modulus-of-Wood.aspx
+29,mug,Cylinder,Ceramic,,,,90,,,1.41E+07,,,3.75E+09,5.85E+10,5,,https://www.engineeringtoolbox.com/ceramics-properties-d_1227.html
+119,plate_big,Cylinder,Ceramic,,,,,,,,,,,5.85E+10,5,,https://www.engineeringtoolbox.com/ceramics-properties-d_1227.html
+209,nail_polish_jar,Cylinder,Glass,,,,,,,,,,,6.25E+10,6,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+247,nail_polish_jar_2,Cylinder,Glass,,,,,,,,,,,6.25E+10,4,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+30,glass_mug,Cylinder,Glass,,,,,,,,,,,6.70E+10,5,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+145,aluminum_cylinder_etched,Cylinder,Metal,,,,,,,,,,,7.00E+10,5,,From machine shop
+153,aluminum_cylinder_wide,Cylinder,Metal,,,,,,,,,,,7.00E+10,5,,From machine shop
+249,aluminum_cylinder,Cylinder,Metal,,,,,,,,,,,7.00E+10,8,,From machine shop
+232,ring,Cylinder,Metal,,,,,,,,,,,8.30E+10,4,,https://en.wikipedia.org/wiki/Silver
+156,bronze_bushing,Cylinder,Metal,,,,,,,,,,,1.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=66575ff2cd5249c49d76df15b47dbca4
+182,heat_insert,Cylinder,Metal,,,,,,,,,,,1.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=d3bd4617903543ada92f4c101c2a20e5&ckck=1
+229,bronze_bushing_big,Cylinder,Metal,,,,,,,,,,,1.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=66575ff2cd5249c49d76df15b47dbca4
+230,bronze_bushing_massive,Cylinder,Metal,,,,,,,,,,,1.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=66575ff2cd5249c49d76df15b47dbca4
+271,bronze_bushing_small,Cylinder,Metal,,,,,,,,,,,1.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=66575ff2cd5249c49d76df15b47dbca4
+280,xacto_knife,Cylinder,Metal,,,,,,,,,,,1.00E+11,8,,
+281,flashlight,Cylinder,Metal,,,,,,,,,,,1.50E+11,8,,
+32,metal_washer_stack,Cylinder,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+130,screwdriver_tip,Cylinder,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6d63108ce26941c2935af2e1641c818b&ckck=1
+140,bearing_small,Cylinder,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6d63108ce26941c2935af2e1641c818b&ckck=1
+155,iron_pipe_fitting,Cylinder,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=654ca9c358264b5392d43315d8535b7d
+177,bearing_large,Cylinder,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6d63108ce26941c2935af2e1641c818b&ckck=1
+58,steel_cylinder,Cylinder,Metal,,,,,,,,,,,2.20E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6d63108ce26941c2935af2e1641c818b&ckck=1
+272,steel_cylinder_tiny,Cylinder,Metal,,,,,,,,,,,2.20E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6d63108ce26941c2935af2e1641c818b&ckck=1
+51,acrylic_hex,Hex,Plastic,,,,,,,,,,,3.20E+09,5,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+171,pencil,Hex,Wood,,,,,,,,,,,1.10E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+152,aluminum_hex,Hex,Metal,,,,,,,,,,,7.00E+10,5,,From machine shop
+174,allen_key,Hex,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+223,allen_key_small,Hex,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+224,allen_key_medium,Hex,Metal,,90,,,,,,2.37E+06,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+160,stuffed_animal,Irregular,Foam,,,,,,,,,,,1.00E+04,5,,
+86,squishy_animal_1,Irregular,Rubber,,17.5,,,,,,1.30E+04,,,1.30E+04,5,,
+87,squishy_animal_2,Irregular,Rubber,,17.5,,,,,,1.30E+04,,,1.30E+04,5,,
+88,squishy_animal_3,Irregular,Rubber,,17.5,,,,,,1.30E+04,,,1.30E+04,5,,
+89,squishy_animal_4,Irregular,Rubber,,17.5,,,,,,1.30E+04,,,1.30E+04,5,,
+90,squishy_animal_5,Irregular,Rubber,,17.5,,,,,,1.30E+04,,,1.30E+04,5,,
+214,squishy_animal_6,Irregular,Rubber,,17.5,,,,,,1.30E+04,,,1.30E+04,8,,
+215,squishy_animal_7,Irregular,Rubber,,17.5,,,,,,1.30E+04,,,1.30E+04,8,,
+216,squishy_animal_8,Irregular,Rubber,,17.5,,,,,,1.30E+04,,,1.30E+04,8,,
+80,gummy_bear,Irregular,Food,,40,,,,,,6.54E+04,,,7.00E+04,5,,https://www.ars.usda.gov/ARSUserFiles/60701000/Sweetpotato%20Publications/S116.pdf
+81,lifesaver_gummy,Irregular,Food,,40,,,,,,6.54E+04,,,7.00E+04,6,,https://www.ars.usda.gov/ARSUserFiles/60701000/Sweetpotato%20Publications/S116.pdf
+186,strawberry,Irregular,Food,,,,,,,,,,,2.00E+05,5,,"https://www.sciencedirect.com/science/article/pii/S0963996923003320#:~:text=For%20'Malwina'%20strawberries%2C%20failure,%2C%20and%200.279%20MPa%2C%20respectively."
+258,insole,Irregular,Rubber,,,17.5,,6.37E+05,5.27E+05,,,4.16E+05,,4.00E+05,8,,
+259,rubber_pancake,Irregular,Rubber,,,15,,5.57E+05,5.27E+05,,,3.63E+05,,4.00E+05,8,,
+15,fake_strawberry,Irregular,Rubber,,75,20,,7.22E+05,8.43E+05,,8.07E+05,4.76E+05,,7.22E+05,5,,
+241,rubber_band_bundle,Irregular,Rubber,,,21,,7.57E+05,5.27E+05,,,5.03E+05,,7.57E+05,8,,
+242,rubber_band,Irregular,Rubber,,,21,,7.57E+05,5.27E+05,,,5.03E+05,,7.57E+05,8,,
+20,ripe_banana,Irregular,Food,,,,,,,,,,,8.00E+05,5,,https://www.researchgate.net/publication/262666426_CHARACTERIZATION_OF_MECHANICAL_PROPERTIES_OF_BANANA_Cavendish_Valery
+116,playdoh,Irregular,Rubber,,,,,,,,,,,9.00E+05,5,,https://canvas.harvard.edu/courses/9782/files/2083953/download?verifier=OoJhn03Uwg1b6zsA2rYNh0XYB3YeJaBd6U9Uicx7
+138,green_rubber_donut,Irregular,Rubber,,84,28,,1.03E+06,1.02E+06,,1.54E+06,7.34E+05,,1.03E+06,5,,
+93,watermelon_eraser,Irregular,Rubber,,84,45,,1.95E+06,1.52E+06,,1.54E+06,1.84E+06,,1.95E+06,5,,
+139,red_rubber_donut,Irregular,Rubber,,86,45,,1.95E+06,1.52E+06,,1.78E+06,1.84E+06,,1.95E+06,5,,
+95,strawberry_eraser,Irregular,Rubber,,86,47.5,,2.13E+06,1.61E+06,,1.78E+06,2.11E+06,,2.13E+06,5,,
+91,lion_eraser,Irregular,Rubber,,86,49,,2.25E+06,1.67E+06,,1.78E+06,2.29E+06,,2.25E+06,5,,
+94,crab_eraser,Irregular,Rubber,,87,50,,2.33E+06,1.71E+06,,1.91E+06,2.41E+06,,2.33E+06,5,,
+243,zebra_eraser,Irregular,Rubber,,86,50,,2.33E+06,5.27E+05,,1.78E+06,2.41E+06,,2.33E+06,8,,
+244,fox_eraser,Irregular,Rubber,,86,50,,2.33E+06,5.27E+05,,1.78E+06,2.41E+06,,2.33E+06,8,,
+245,bear_eraser,Irregular,Rubber,,86,50,,2.33E+06,5.27E+05,,1.78E+06,2.41E+06,,2.33E+06,8,,
+246,bee_eraser,Irregular,Rubber,,86,50,,2.33E+06,5.27E+05,,1.78E+06,2.41E+06,,2.33E+06,8,,
+96,banana_eraser,Irregular,Rubber,,86,50.5,,2.37E+06,1.73E+06,,1.78E+06,2.48E+06,,2.37E+06,5,,
+21,unripe_banana,Irregular,Food,,,,,,,,,,,2.50E+06,5,,https://www.researchgate.net/publication/262666426_CHARACTERIZATION_OF_MECHANICAL_PROPERTIES_OF_BANANA_Cavendish_Valery
+92,frog_eraser,Irregular,Rubber,,85,53,,2.59E+06,1.83E+06,,1.65E+06,2.84E+06,,2.59E+06,5,,
+77,crown_eraser,Irregular,Rubber,,,55,12,2.78E+06,1.92E+06,2.26E+06,,3.16E+06,2.45E+07,2.78E+06,5,,
+75,diamond_eraser,Irregular,Rubber,,,57.5,10,3.04E+06,2.04E+06,2.16E+06,,3.62E+06,2.16E+07,3.04E+06,5,,
+71,rose_eraser,Irregular,Rubber,,,58,10,3.10E+06,2.06E+06,2.16E+06,,3.72E+06,2.16E+07,3.10E+06,5,,
+183,half_rose_eraser,Irregular,Rubber,,,58,10,3.10E+06,2.06E+06,2.16E+06,,3.72E+06,2.16E+07,3.10E+06,5,,
+48,motorcycle_eraser,Irregular,Rubber,,90,58.5,9,3.15E+06,2.08E+06,2.11E+06,2.37E+06,3.82E+06,2.02E+07,3.15E+06,5,,
+69,heart_eraser,Irregular,Rubber,,,59.5,10,3.27E+06,2.13E+06,2.16E+06,,4.04E+06,2.16E+07,3.27E+06,5,,
+67,leaf_eraser,Irregular,Rubber,,,60,12,3.33E+06,2.16E+06,2.26E+06,,4.15E+06,2.45E+07,3.33E+06,5,,
+47,car_eraser,Irregular,Rubber,,90,60.5,8,3.39E+06,2.18E+06,2.06E+06,2.37E+06,4.26E+06,1.89E+07,3.39E+06,6,,
+135,rubber_spatula,Irregular,Rubber,,,,14,,,2.37E+06,,,2.79E+07,1.67E+07,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=cbe7a469897a47eda563816c86a73520
+213,charger_cable,Irregular,Rubber,,,,45,,,4.91E+06,,,2.06E+08,5.00E+07,6,,
+137,plastic_measuring_cup,Irregular,Plastic,,,,58,,,6.67E+06,,,4.77E+08,2.57E+08,7,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=08fb0f47ef7e454fbf7092517b2264b2
+82,lifesaver_hard,Irregular,Food,,,,,,,,,,,1.00E+09,5,,https://www.cambridge.org/core/journals/journal-of-materials-research/article/abs/mechanical-behavior-assessment-of-sucrose-using-nanoindentation/AA57973260F654668C3F718C672BF0BA
+233,pi_usb_cable,Irregular,Plastic,,,,45,,,4.91E+06,,,2.06E+08,1.50E+09,8,,
+234,hdmi_adapter,Irregular,Plastic,,,,45,,,4.91E+06,,,2.06E+08,1.50E+09,8,,
+124,plastic_knife,Irregular,Plastic,,,,70,,,8.84E+06,,,1.03E+09,1.80E+09,5,,https://www.matweb.com/search/datasheet.aspx?matguid=df6b1ef50ce84e7995bdd1f6fd1b04c9
+126,plastic_fork,Irregular,Plastic,,,,,,,,,,,1.80E+09,5,,https://www.matweb.com/search/datasheet.aspx?matguid=df6b1ef50ce84e7995bdd1f6fd1b04c9
+128,plastic_spoon,Irregular,Plastic,,,,,,,,,,,1.80E+09,5,,https://www.matweb.com/search/datasheet.aspx?matguid=df6b1ef50ce84e7995bdd1f6fd1b04c9
+175,plastic_fork_white,Irregular,Plastic,,,,,,,,,,,1.80E+09,5,,https://www.matweb.com/search/datasheet.aspx?matguid=df6b1ef50ce84e7995bdd1f6fd1b04c9
+206,broken_pen,Irregular,Plastic,,,,,,,,,,,2.15E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+211,mechanical_pencil,Irregular,Plastic,,,,,,,,,,,2.15E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+220,buckle,Irregular,Plastic,,,,,,,,,,,2.15E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+107,baby_toy_x,Irregular,Plastic,,,,62.5,,,7.41E+06,,,6.37E+08,2.16E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+108,baby_toy_star,Irregular,Plastic,,,,62.5,,,7.41E+06,,,6.37E+08,2.16E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089647
+109,baby_toy_triangle,Irregular,Plastic,,,,62.5,,,7.41E+06,,,6.37E+08,2.16E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089648
+225,plastic_clamp,Irregular,Plastic,,,,,,,,,,,2.25E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+257,star_twist,Irregular,Plastic,,,,,,,,,,,2.25E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+42,lego,Irregular,Plastic,,,,,,,,,,,2.35E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+44,lego_pillar,Irregular,Plastic,,,,,,,,,,,2.35E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+45,lego_build,Irregular,Plastic,,,,,,,,,,,2.35E+09,6,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+46,lego_arches,Irregular,Plastic,,,,,,,,,,,2.35E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+78,plastic_bear,Irregular,Plastic,,,,85,,,1.26E+07,,,2.72E+09,2.35E+09,7,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+121,bowl_small_plastic,Irregular,Plastic,,,,72,,,9.27E+06,,,1.18E+09,2.35E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+122,bowl_big_plastic,Irregular,Plastic,,,,70,,,8.84E+06,,,1.03E+09,2.35E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+169,cap_screw_knob,Irregular,Plastic,,,,,,,,,,,2.35E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+181,lego_mech_arm,Irregular,Plastic,,,,,,,,,,,2.35E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+187,expo_cap,Irregular,Plastic,,,,,,,,,,,2.35E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+226,baby_lego_1,Irregular,Plastic,,,,,,,,,,,2.35E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+227,baby_lego_2,Irregular,Plastic,,,,,,,,,,,2.35E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+228,baby_lego_3,Irregular,Plastic,,,,,,,,,,,2.35E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+270,cap_screw_knob_small,Irregular,Plastic,,,,,,,,,,,2.35E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+273,cap_screw_knob_winged,Irregular,Plastic,,,,,,,,,,,2.35E+09,6,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+274,red_electrical_piece,Irregular,Plastic,,,,,,,,,,,2.35E+09,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+144,pipe_junction_small_T,Irregular,Plastic,,,,,,,,,,,2.76E+09,5,,Made of delrin
+166,pipe_junction_medium_T,Irregular,Plastic,,,,,,,,,,,2.76E+09,5,,Made of delrin
+136,measuring_cups_handle,Irregular,Plastic,,,,70,,,8.84E+06,,,1.03E+09,2.97E+09,5,,https://matweb.com/search/DataSheet.aspx?MatGUID=8d78f3cfcb6f49d595896ce6ce6a2ef1&ckck=1
+207,peeler,Irregular,Plastic,,,,,,,,,,,2.97E+09,7,,https://matweb.com/search/DataSheet.aspx?MatGUID=8d78f3cfcb6f49d595896ce6ce6a2ef1&ckck=1
+31,vial,Irregular,Glass,,,,,,,,,,,3.10E+09,5,,https://www.matweb.com/search/datasheet.aspx?bassnum=O1303
+14,plastic_strawberry,Irregular,Plastic,,,,,,,,,,,3.15E+09,5,,https://www.vinidex.com.au/technical-resources/material-properties/pvc-properties/#:~:text=Elastic%20Modulus%20of%20PVC%2DO%20%E2%80%93%204000%20MPa
+194,laser_cut_scraps_1,Irregular,Plastic,,,,,,,,,,,3.20E+09,8,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+195,laser_cut_scraps_2,Irregular,Plastic,,,,,,,,,,,3.20E+09,8,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+199,dice,Irregular,Plastic,,,,,,,,,,,3.20E+09,8,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+269,acrylic_piece,Irregular,Plastic,,,,,,,,,,,3.20E+09,8,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+188,wedge_case,Irregular,Plastic,,,,,,,,,,,3.60E+09,8,,https://s3.amazonaws.com/mf.product.doc.images/Datasheets/Material+Datasheets/CompositesMaterialDatasheet.pdf
+189,onyx_finger,Irregular,Plastic,,,,,,,,,,,3.60E+09,8,,https://s3.amazonaws.com/mf.product.doc.images/Datasheets/Material+Datasheets/CompositesMaterialDatasheet.pdf
+217,wire_nut,Irregular,Plastic,,,,,,,,,,,4.00E+09,8,,https://www.vinidex.com.au/technical-resources/material-properties/pvc-properties/#:~:text=Elastic%20Modulus%20of%20PVC%2DO%20%E2%80%93%204000%20MPa
+115,wooden_arch,Irregular,Wood,,,,,,,,,,,1.00E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+117,wooden_spoon,Irregular,Wood,,,,,,,,,,,1.00E+10,5,,https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html
+118,wooden_fork,Irregular,Wood,,,,,,,,,,,1.00E+10,5,,https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html
+201,ball_string_toy,Irregular,Wood,,,,,,,,,,,1.00E+10,8,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+219,wooden_quarter_cylinder,Irregular,Wood,,,,,,,,,,,1.00E+10,8,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+278,wooden_double_arch,Irregular,Wood,,,,,,,,,,,1.00E+10,8,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+286,door_wedge,Irregular,Wood,,,,,,,,,,,1.00E+10,7,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+123,bowl_ceramic,Irregular,Ceramic,,,,98,,,1.71E+07,,,6.29E+09,5.85E+10,5,,https://www.engineeringtoolbox.com/ceramics-properties-d_1227.html
+210,paint_jar,Irregular,Glass,,,,,,,,,,,6.25E+10,8,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+85,aluminum_horse,Irregular,Metal,,,,,,,,,,,7.00E+10,5,,https://www.bestech.com.au/wp-content/uploads/Modulus-of-Elasticity.pdf
+154,aluminum_stand,Irregular,Metal,,,,,,,,,,,7.00E+10,5,,From lab
+161,angle_bracket,Irregular,Metal,,,,,,,,,,,7.00E+10,5,,From lab
+197,c_channel,Irregular,Metal,,,,,,,,,,,7.00E+10,8,,From machine shop
+276,angle_bracket_long,Irregular,Metal,,,,,,,,,,,7.00E+10,8,,From lab
+192,waterjet_scraps_1,Irregular,Metal,,,,,,,,,,,7.17E+10,8,,"https://www.thomasnet.com/articles/metals-metal-products/all-about-7075-aluminum-properties-strength-and-uses/#:~:text=The%20modulus%20of%20elasticity%20for,tough%2Dyet%2Dlight%20metal."
+193,waterjet_scraps_2,Irregular,Metal,,,,,,,,,,,7.17E+10,7,,"https://www.thomasnet.com/articles/metals-metal-products/all-about-7075-aluminum-properties-strength-and-uses/#:~:text=The%20modulus%20of%20elasticity%20for,tough%2Dyet%2Dlight%20metal."
+170,brass_connector,Irregular,Metal,,,,,,,,,,,1.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=d3bd4617903543ada92f4c101c2a20e5&ckck=1
+179,coat_hanger,Irregular,Metal,,,,,,,,,,,1.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=d3bd4617903543ada92f4c101c2a20e5&ckck=1
+260,brass_fitting_1,Irregular,Metal,,,,,,,,,,,1.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=d3bd4617903543ada92f4c101c2a20e5&ckck=1
+261,brass_fitting_2,Irregular,Metal,,,,,,,,,,,1.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=d3bd4617903543ada92f4c101c2a20e5&ckck=1
+262,brass_fitting_3,Irregular,Metal,,,,,,,,,,,1.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=d3bd4617903543ada92f4c101c2a20e5&ckck=1
+263,brass_fitting_4,Irregular,Metal,,,,,,,,,,,1.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=d3bd4617903543ada92f4c101c2a20e5&ckck=1
+264,brass_fitting_5,Irregular,Metal,,,,,,,,,,,1.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=d3bd4617903543ada92f4c101c2a20e5&ckck=1
+141,c_clamp,Irregular,Metal,,,,,,,,,,,1.50E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6291a24572754cae94ff365ed99b96f9
+125,metal_knife,Irregular,Metal,,,,,,,,,,,1.90E+11,5,,https://matweb.com/search/DataSheet.aspx?MatGUID=abc4415b0f8b490387e3c922237098da&ckck=1
+127,metal_fork,Irregular,Metal,,,,,,,,,,,1.90E+11,5,,https://matweb.com/search/DataSheet.aspx?MatGUID=abc4415b0f8b490387e3c922237098da&ckck=1
+129,metal_spoon,Irregular,Metal,,,,,,,,,,,1.90E+11,5,,https://matweb.com/search/DataSheet.aspx?MatGUID=abc4415b0f8b490387e3c922237098da&ckck=1
+33,nut_big,Irregular,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+34,nut_medium,Irregular,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+35,nut_small,Irregular,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+37,screw,Irregular,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+38,bolt_gray,Irregular,Metal,,,,,,,,,,,2.00E+11,6,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+39,bolt_black,Irregular,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+111,hammer_head,Irregular,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6d63108ce26941c2935af2e1641c818b&ckck=1
+173,u_bracket,Irregular,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+180,bolt_gray_small,Irregular,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+248,wrench,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+252,bolt_gray_massive,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+253,bolt_black_big,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+254,bolt_black_small,Irregular,Metal,,,,,,,,,,,2.00E+11,6,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+255,hook,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+256,nut_massive,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+265,key_ring,Irregular,Metal,,,,,,,,,,,2.00E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+266,wing_nut,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+267,steel_fitting,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+268,spring,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+275,unthreaded_screw,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+277,hole_punch,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6d63108ce26941c2935af2e1641c818b&ckck=1
+287,bolt_gray_long,Irregular,Metal,,,,,,,,,,,2.00E+11,8,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=098700ed63b24b14bd3bfdbec937489f
+27,pillow,Rectangular,Foam,,,,,,,,,,,5.00E+03,5,,
+1,yellow_foam_brick,Rectangular,Foam,,7.5,,,,,,6.34E+03,,,6.34E+03,5,,
+2,red_foam_brick,Rectangular,Foam,,15,,,,,,1.09E+04,,,1.09E+04,5,,
+200,black_foam,Rectangular,Foam,,15,,,,,,1.09E+04,,,1.09E+04,7,,
+3,blue_foam_brick,Rectangular,Foam,,27.5,,,,,,2.67E+04,,,2.67E+04,5,,
+98,blue_sponge_wet,Rectangular,Foam,,,,,,,,,,,3.00E+04,5,,https://asmedigitalcollection.asme.org/appliedmechanics/article/80/2/020908/370675
+101,yellow_sponge,Rectangular,Foam,,,,,,,,,,,5.60E+04,5,,https://therubbercompany.com/wp-content/uploads/2013/06/Polyurethane-Foam-Sheeting-Data-Sheet.pdf
+4,green_foam_brick,Rectangular,Foam,,42.5,,,,,,7.82E+04,,,7.82E+04,5,,
+5,foam_brick,Rectangular,Foam,,32.5,,,,,,3.82E+04,,,3.00E+05,5,,"https://www.matweb.com/search/DataSheet.aspx?MatGUID=91d44cae736e4b36bcba94720654eeae, https://www.pg.gda.pl/mech/kim/AMS/022006/AMS02200605.pdf"
+168,foam_rod,Rectangular,Foam,,54,,,,,,1.79E+05,,,3.00E+05,5,,
+231,foam_square,Rectangular,Foam,,54,,,,,,1.79E+05,,,3.00E+05,8,,
+100,scotch_brite,Rectangular,Foam,,50,10,,4.10E+05,6.67E+05,,1.34E+05,2.77E+05,,4.10E+05,5,,
+99,blue_sponge_dry,Rectangular,Foam,,,,,,,,,,,4.50E+05,5,,https://asmedigitalcollection.asme.org/appliedmechanics/article/80/2/020908/370675
+239,magnetic_whiteboard_eraser,Rectangular,Rubber,,,25,,9.07E+05,5.27E+05,,,6.24E+05,,9.07E+05,8,,
+28,paper_towel_bundle,Rectangular,Paper,,,,,,,,,,,1.30E+06,5,,https://bioresources.cnr.ncsu.edu/wp-content/uploads/2021/11/BioRes_17_1_492_Vieira_VMCFC_Toilet_Paper_Perforation_Efficiency_19308.pdf
+66,eraser,Rectangular,Rubber,,90,50,0,2.33E+06,1.71E+06,,2.37E+06,2.41E+06,,2.33E+06,5,,
+202,pink_eraser,Rectangular,Rubber,,,63,,3.72E+06,2.32E+06,,,4.88E+06,,3.72E+06,8,,
+97,mousepad,Rectangular,Rubber,,72.5,30,,1.12E+06,1.07E+06,,6.74E+05,8.18E+05,,5.00E+06,5,,"Hardness measurement double-checked with: https://hapcoincorporated.com/resources/hardness-comparison-chart/, https://moldedgroup.com/comparative-physical-mechanical-and-thermal-properties/ , https://designerdata.nl/materials/plastics/rubbers/styrene-butadiene-rubber "
+157,whiteboard_eraser,Rectangular,Foam,,,45,,1.95E+06,1.52E+06,,,1.84E+06,,4.00E+08,5,,https://www.matweb.com/search/datasheet.aspx?matguid=5f099f2b5eeb41cba804ca0bc64fa62f
+159,cutting_board,Rectangular,Plastic,,,,,,,,,,,1.00E+09,5,,https://www.matweb.com/search/datasheet_print.aspx?matguid=fce23f90005d4fbe8e12a1bce53ebdc8
+236,remote,Rectangular,Plastic,,,,,,,,,,,2.70E+09,8,,"https://omnexus.specialchem.com/polymer-property/young-modulus#:~:text=The%20modulus%20of%20elasticity%20of%20nylon,GPa%20(0.4%20x%20106%20psi)"
+237,gel_mold,Rectangular,Plastic,,,,,,,,,,,2.70E+09,8,,"https://omnexus.specialchem.com/polymer-property/young-modulus#:~:text=The%20modulus%20of%20elasticity%20of%20nylon,GPa%20(0.4%20x%20106%20psi)"
+251,delrin_rectangle,Rectangular,Plastic,,,,,,,,,,,2.76E+09,7,,https://laminatedplastics.com/delrin.pdf
+164,iphone_brick,Rectangular,Plastic,,,,,,,,,,,2.97E+09,5,,https://matweb.com/search/DataSheet.aspx?MatGUID=8d78f3cfcb6f49d595896ce6ce6a2ef1&ckck=1
+112,wooden_rectangle,Rectangular,Wood,,,,,,,,,,,1.00E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+113,wooden_cube,Rectangular,Wood,,,,,,,,,,,1.00E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+162,wooden_sheet,Rectangular,Wood,,,,,,,,,,,1.00E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+165,taped_wooden_cubes,Rectangular,Wood,,,,,,,,,,,1.00E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+176,wooden_plank,Rectangular,Wood,,,,,,,,,,,1.00E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+190,popsicle_stick,Rectangular,Wood,,,,,,,,,,,1.19E+10,7,,https://www.matweb.com/search/datasheet_print.aspx?matguid=c499c231f20d4284a4da8bea3d2644fc
+191,popsicle_stick_wide,Rectangular,Wood,,,,,,,,,,,1.19E+10,6,,https://www.matweb.com/search/datasheet_print.aspx?matguid=c499c231f20d4284a4da8bea3d2644fc
+148,extrusion_big,Rectangular,Metal,,,,,,,,,,,7.00E+10,5,,From machine shop
+149,extrusion_small,Rectangular,Metal,,,,,,,,,,,7.00E+10,5,,From machine shop
+150,extrusion_double,Rectangular,Metal,,,,,,,,,,,7.00E+10,5,,From machine shop
+151,aluminum_square,Rectangular,Metal,,,,,,,,,,,7.00E+10,5,,From machine shop
+172,aluminum_square_rod,Rectangular,Metal,,,,,,,,,,,7.00E+10,5,,From machine shop
+196,extrusion,Rectangular,Metal,,,,,,,,,,,7.00E+10,7,,From machine shop
+222,extrusion_tiny,Rectangular,Metal,,,,,,,,,,,7.00E+10,8,,From machine shop
+250,aluminum_plate_waterjet,Rectangular,Metal,,,,,,,,,,,7.00E+10,8,,From machine shop
+102,racquet_ball,Sphere,Rubber,,94,60.5,,3.39E+06,2.18E+06,,3.16E+06,4.26E+06,,0.00E+00,5,,
+7,orange_elastic_ball,Sphere,Rubber,,30,,,,,,3.19E+04,,,3.19E+04,5,0.025,
+11,rubber_egg,Sphere,Rubber,,40,,,,,,6.54E+04,,,6.54E+04,5,,
+279,red_elastic_ball,Sphere,Rubber,,43,,,,,,8.11E+04,,,8.11E+04,8,0.025,
+8,green_elastic_ball,Sphere,Rubber,,45,,,,,,9.36E+04,,,9.36E+04,5,0.025,
+9,blue_elastic_ball,Sphere,Rubber,,55,,,,,,1.92E+05,,,1.92E+05,5,0.025,
+10,purple_elastic_ball,Sphere,Rubber,,62,2,,2.04E+05,5.53E+05,,3.17E+05,1.80E+05,,2.04E+05,5,0.025,
+6,foam_earth,Sphere,Foam,,55,5,,2.77E+05,5.93E+05,,1.92E+05,2.12E+05,,3.00E+05,5,,"https://www.matweb.com/search/DataSheet.aspx?MatGUID=91d44cae736e4b36bcba94720654eeae, https://www.pg.gda.pl/mech/kim/AMS/022006/AMS02200605.pdf"
+13,fake_golf_ball,Sphere,Rubber,,75,17.5,,6.37E+05,7.95E+05,,8.07E+05,4.16E+05,,6.37E+05,5,,
+23,orange,Sphere,Food,,,,,,,,,,,7.00E+05,5,,"https://www.sciencedirect.com/science/article/pii/S1658077X15000090#:~:text=1.-,The%20elastic%20properties%20of%20orange%20fruits%20subjected%20to%20axial%20and,MPa%2C%200.123%2C%200.010%20MPa."
+158,silly_puty,Sphere,Rubber,,,,,,,,,,,1.70E+06,10,,"http://ui.adsabs.harvard.edu/abs/2012AmJPh..80..870C/abstract#:~:text=It%20was%20found%20that%20stress,%C3%97%20104%20Pa%20s."
+147,rubber_band_ball,Sphere,Rubber,,,35,,1.35E+06,1.20E+06,,,1.07E+06,,3.00E+06,5,,https://www.matweb.com/search/datasheet.aspx?matguid=6588439546ac4492965c894ddff3f5da
+17,apple,Sphere,Food,,,,,,,,,,,3.25E+06,5,,https://www.sciencedirect.com/science/article/abs/pii/S0263224114001729
+73,bumpy_ball_eraser,Sphere,Rubber,,,61.5,10,3.52E+06,2.24E+06,2.16E+06,,4.50E+06,2.16E+07,3.52E+06,5,,
+185,half_bumpy_ball_eraser,Sphere,Rubber,,,61.5,10,3.52E+06,5.27E+05,2.16E+06,,4.50E+06,2.16E+07,3.52E+06,5,,
+105,tennis_ball,Sphere,Rubber,,,,,,,,,,,3.65E+06,5,,https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BPB2-0062-0016/c/httpwww_actawm_pb_edu_plvol5no4wojcickikuleszapucilowskien2010085.pdf
+103,lacrosse_ball,Sphere,Rubber,,,45,,1.95E+06,1.52E+06,,,1.84E+06,,1.00E+07,5,,"https://www.matweb.com/search/datasheet.aspx?matguid=6588439546ac4492965c894ddff3f5da&ckck=1, https://onlinelibrary.wiley.com/doi/pdf/10.1002/app.1978.070220514 "
+106,baseball,Sphere,Rubber,,,,,,,,,,,6.90E+07,5,,https://ssl.wsu.edu/documents/2015/10/a-dynamic-finite-element-analysis-of-wood-baseball-bats.pdf/
+12,golf_ball,Sphere,Plastic,,,,67,,,8.24E+06,,,8.52E+08,8.50E+08,5,,https://www.precisionurethane.com/hardness-chart.html
+178,plastic_sphere,Sphere,Plastic,,,,,,,,,,,2.35E+09,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=eb7a78f5948d481c9493a67f0d089646
+16,plastic_apple,Sphere,Plastic,,,,55,,,6.22E+06,,,3.93E+08,3.15E+09,5,,https://www.vinidex.com.au/technical-resources/material-properties/pvc-properties/#:~:text=Elastic%20Modulus%20of%20PVC%2DO%20%E2%80%93%204000%20MPa
+22,plastic_orange,Sphere,Plastic,,,,55,,,6.22E+06,,,3.93E+08,3.15E+09,5,,https://www.vinidex.com.au/technical-resources/material-properties/pvc-properties/#:~:text=Elastic%20Modulus%20of%20PVC%2DO%20%E2%80%93%204000%20MPa
+24,plastic_pear,Sphere,Plastic,,,,55,,,6.22E+06,,,3.93E+08,3.15E+09,5,,https://www.vinidex.com.au/technical-resources/material-properties/pvc-properties/#:~:text=Elastic%20Modulus%20of%20PVC%2DO%20%E2%80%93%204000%20MPa
+25,plastic_lemon,Sphere,Plastic,,,,55,,,6.22E+06,,,3.93E+08,3.15E+09,5,,https://www.vinidex.com.au/technical-resources/material-properties/pvc-properties/#:~:text=Elastic%20Modulus%20of%20PVC%2DO%20%E2%80%93%204000%20MPa
+26,plastic_peach,Sphere,Plastic,,,,55,,,6.22E+06,,,3.93E+08,3.15E+09,5,,https://www.vinidex.com.au/technical-resources/material-properties/pvc-properties/#:~:text=Elastic%20Modulus%20of%20PVC%2DO%20%E2%80%93%204000%20MPa
+114,wooden_sphere,Sphere,Wood,,,,,,,,,,,1.00E+10,5,,"Pine, https://www.engineeringtoolbox.com/timber-mechanical-properties-d_1789.html"
+104,pool_ball,Sphere,Ceramic,,,,,,,,,,,1.05E+10,5,,https://www.altairuniversity.com/wp-content/uploads/2012/08/Example_9.pdf
+54,marble_big,Sphere,Glass,,,,,,,,,,,6.70E+10,5,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+55,marble_medium,Sphere,Glass,,,,,,,,,,,6.70E+10,5,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+56,marble_small,Sphere,Glass,,,,,,,,,,,6.70E+10,5,,https://www.engineeringtoolbox.com/young-modulus-d_417.html
+59,steel_ball_big,Sphere,Metal,,,,,,,,,,,2.20E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6d63108ce26941c2935af2e1641c818b&ckck=1
+60,steel_ball_small,Sphere,Metal,,,,,,,,,,,2.20E+11,5,,https://www.matweb.com/search/DataSheet.aspx?MatGUID=6d63108ce26941c2935af2e1641c818b&ckck=1

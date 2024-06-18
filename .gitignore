@@ -1,0 +1,15 @@
+__pycache__
+data_old/
+data.zip
+wandb/
+model_old/
+figures_private/
+paper/
+plotting_data/
+src/visually_inspect.py
+src/calc_mean_std_rgb.py
+src/evaluate_estimator.py
+src/check_results.py
+src/process_estimations.py
+example_data/
+data/gelsight_youngs_modulus_dataset

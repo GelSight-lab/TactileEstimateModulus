@@ -1,0 +1,3 @@
+[submodule "gelsight_wedge"]
+	path = gelsight_wedge
+	url = git@github.com:GelSight-lab/gelsight_wedge.git
