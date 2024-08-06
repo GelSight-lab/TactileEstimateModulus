@@ -1,5 +1,4 @@
 # Tactile Estimate Modulus
-Author: Michael Burgess (mburgjr)
 
 Dataset available on [HuggingFace](https://huggingface.co/datasets/mburgjr/GelSightYoungsModulus).
 
