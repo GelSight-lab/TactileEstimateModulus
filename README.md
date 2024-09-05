@@ -2,6 +2,8 @@
 
 Dataset available on [HuggingFace](https://huggingface.co/datasets/mburgjr/GelSightYoungsModulus).
 
+Pre-print is available on [arXiv](https://arxiv.org/abs/2406.15304).
+
 ## Description
 
 In this project, we seek to estimate the compliance of an unknown object from a single grasp with GelSight Wedge sensors. We use analytical models alongside a data-driven approach to better generalize across both shape and material type. We parametrize compliance as Young's Modulus, which is a well-defined material property and characterizes an object's resistance to deformation in the elastic regime.
